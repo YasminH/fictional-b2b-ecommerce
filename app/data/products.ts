@@ -90,7 +90,7 @@ export const products: Product[] = [
     id: 4,
     name: "Smart LED Desk Lamp",
     image:
-      "https://images.unsplash.com/photo-1570909974804-e38f0c0e2bfb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "",
     description:
       "Adjustable LED lamp with multiple brightness levels, color temperatures, and smart home integration for the perfect work ambiance.",
     category: "Lighting",
